@@ -9,8 +9,9 @@ function App() {
   return (
     <>
       <div>
+        <h1>Hello Netlify</h1>
         <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+          <img src={reactLogo} className="logo react" />
         </a>
       </div>
       <h1>Vite + React</h1>
